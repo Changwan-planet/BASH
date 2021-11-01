@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+
 #Reset (or empty) the file 
 cat /dev/null > trace.txt
 
